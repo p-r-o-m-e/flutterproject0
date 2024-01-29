@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:webapp/UI/latest_widget.dart';
-import 'package:webapp/UI/mission_widget.dart';
 import 'package:webapp/util/Constants.dart' show Styles;
 import 'package:webapp/util/Constants.dart' show ClassDict;
 
